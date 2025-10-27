@@ -4,13 +4,18 @@
 **AI-powered outreach tool that analyzes job descriptions and automatically generates personalized cold emails.**
 
 This project demonstrates practical applications of **Large Language Models (LLMs)**, **vector databases (ChromaDB)**, and **web scraping (LangChain)** — all wrapped in a clean and interactive **Streamlit** interface.
+
+
+---
+
 [![Python](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/)
 [![LangChain](https://img.shields.io/badge/LangChain-Framework-blueviolet)](https://www.langchain.com/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-Web_App-red)](https://streamlit.io/)
 [![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector_Database-orange)](https://www.trychroma.com/)
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen)]()
 
----
+
+
 
 ## 🌟 Why This Project
 
